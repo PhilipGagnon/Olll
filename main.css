@@ -1,0 +1,38 @@
+<style type="text/css">
+
+body {
+	font-family: 'Lucida Sans Unicode', sans-serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.hero {
+	background-position: center top;
+	background-size: cover;
+	padding: 10px 0;
+	margin: 0px;
+	font-family: 'Lucida Sans Unicode';
+}
+
+
+p {
+	font-size: 13px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode',
+	sans-serif;
+	color: #5c5c5c;
+
+}
+
+.hero a {
+	font-size: 15px;
+	text-decoration: none;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode',
+	sans-serif;
+	color: #A4A4A4;
+}
+
+#footer {
+	font-size: 14px;
+}
